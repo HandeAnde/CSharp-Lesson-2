@@ -1,0 +1,13 @@
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.csprojAssemblyReference.cache
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.AssemblyInfoInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.AssemblyInfo.cs
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.csproj.CoreCompileInputs.cache
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.exe
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.deps.json
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.runtimeconfig.json
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.runtimeconfig.dev.json
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.dll
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\bin\Debug\netcoreapp3.1\Studio-CountingCharacters.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.dll
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.pdb
+C:\Users\iamco\Desktop\LC101\CSharp\Lesson 2\Studio-CountingCharacters\Studio-CountingCharacters\obj\Debug\netcoreapp3.1\Studio-CountingCharacters.genruntimeconfig.cache
